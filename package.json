@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "1.7.0",
   "private": false,
-  "home": "/equipment",
+  "homepage": "/equipment",
   "scripts": {
     "start": "BROWSER=NONE react-scripts start",
     "build": "BUILD_PATH=docs react-scripts build",
